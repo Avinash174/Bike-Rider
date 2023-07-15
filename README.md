@@ -1,6 +1,6 @@
 # Bike Rider (Game)
 
-A new Flutter project.
+A New Bike Rider Game.
 
 ## Getting Started
 
